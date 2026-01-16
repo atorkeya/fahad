@@ -1,0 +1,2 @@
+document.write('<iframe src="http://ir1.sitekodlari.com/nv1.php" scrolling="no" frameBorder="0" width="160" height="235"></iframe>');
+document.write('<script type="text/javascript" src="//pl154258.alternativecpmgate.com/95/d7/62/95d762de5ca6721293d645df673ba144.js"></script>');
